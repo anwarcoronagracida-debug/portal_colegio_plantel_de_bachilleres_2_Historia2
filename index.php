@@ -71,17 +71,8 @@
             <h3>Referencias Bibliográficas</h3>
             <hr>
             <dl>
-                <dt>Gaddis, John Lewis (2005).</dt>
-                <dd><em>La Guerra Fría</em>. Editorial RBA. Un análisis exhaustivo sobre las estrategias de las superpotencias.</dd>
-                
-                <dt>Hobsbawm, Eric (1994).</dt>
-                <dd><em>Historia del siglo XX</em>. Crítica. Capítulo sobre "La Guerra Fría" para entender el contexto socioeconómico.</dd>
-                
-                <dt>Powaski, Ronald E. (2000).</dt>
-                <dd><em>La Guerra Fría: Estados Unidos y la Unión Soviética, 1917-1991</em>. Editorial Crítica.</dd>
-                
-                <dt>Archivo Digital de la CIA / Archivos Soviéticos.</dt>
-                <dd>Documentación desclasificada sobre espionaje y tratados internacionales (Recurso Online).</dd>
+                <dt>Hola en si todo esto lo saque de mi libreta pero el libro en donde la saque es "conexioneditorial.mx" es una libro de conciencia historica3</dt>
+                <dd><em>
             </dl>
         </div>
 
