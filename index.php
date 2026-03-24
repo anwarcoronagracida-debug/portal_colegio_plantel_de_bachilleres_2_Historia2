@@ -71,7 +71,7 @@
             <h3>Referencias Bibliográficas</h3>
             <hr>
             <dl>
-                <dt>Hola en si todo esto lo saque de mi libreta pero el libro en donde la saque es "conexioneditorial.mx" es una libro de conciencia historica3</dt>
+                <dt>Maria Irene Vazquez Limon (2025) Conciencia Historica 3 la realidad actual en perspectiva historica Conecta Editores S.A.de C.V </dt>
                 <dd><em>
             </dl>
         </div>
